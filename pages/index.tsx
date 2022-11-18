@@ -13,7 +13,7 @@ const Home = () => (
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" href="/favicon.ico" />
     </Head>
-    <div className="min-h-screen py-2 relative bg-ben-black flex flex-col items-center justify-center">
+    <div className="h-full relative bg-ben-black flex flex-col items-center justify-center">
       <h1 className="font-sans md:text-8xl text-5xl text-white mb-2">
         Ben Adamsky
       </h1>

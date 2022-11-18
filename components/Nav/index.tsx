@@ -28,7 +28,7 @@ interface NavProps {
 
 const defaultProps: NavProps = {
   className: 'absolute bottom-12'
-}
+};
 
 const NavItem = ({ title, to, path }: NavItemProps) => {
   const isActive = path === to;
