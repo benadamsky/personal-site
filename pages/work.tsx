@@ -9,7 +9,7 @@ const projects = [
     subtitle: 'Next-gen home marketplace platform',
     description:
       'Refactored over a dozen React components spanning across different parts of the app. Implemented new features and fixed bugs. Helped identify painpoints in the codebase and suggested tangible solutions.',
-    image: '/stealth.png'
+    image: '/temp.png'
   },
   {
     role: 'Co-Founder, COO',
