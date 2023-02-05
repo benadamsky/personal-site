@@ -4,35 +4,35 @@ import Nav from '../components/Nav';
 
 const projects = [
   {
-    role: 'Freelance Senior React developer',
-    title: 'Stealth startup',
-    subtitle: 'Next-gen home marketplace platform',
+    role: 'Full-Stack Developer (2022 - present)',
+    title: 'Freeport',
+    subtitle: 'Invest in the world\'s rarest fine art',
     description:
-      'Refactored over a dozen React components spanning across different parts of the app. Implemented new features and fixed bugs. Helped identify painpoints in the codebase and suggested tangible solutions.',
-    image: '/temp.png'
+      'Developing front-end and back-end solutions for the platform\'s custom 3D art gallery. Assisting in various product decisions and building out new features.',
+    image: '/freeport.png'
   },
   {
-    role: 'Co-Founder, COO',
+    role: 'Co-Founder, COO (2021 - 2022)',
     title: 'Kettle',
     subtitle: 'Virtual events with personalized activities',
     description:
-      'Had a major role in company operations and the product lifecycle. Led crucial product decisions on 3 MVPs. Helped facilitate user feedback and all product iterations.',
+      'Had a major role in company operations and the product lifecycle. Co-managed a team of 5 and led critical product decisions on 3 MVPs. Helped facilitate user feedback throughout all product iterations.',
     video: '/kettle.mp4'
   },
   {
-    role: 'Founding Engineer',
+    role: 'Founding Engineer (2020 - 2021)',
     title: 'Branch.gg',
     subtitle: 'Your space for work and play',
     description:
-      'Created spatial audio software at a fast-paced venture backed tech startup. Had a key role in development of both the MVP and industrial-ready web app, including major design decisions of the core app and custom style library.',
+      'Created spatial audio software at a fast-paced venture backed tech startup. Had a key role in the development of both the MVP and industrial-ready web app, including major design decisions for the core app and custom style library.',
     video: '/branch.mp4'
   },
   {
-    role: 'Freelance React developer',
+    role: 'Freelance Senior React Developer (2021)',
     title: 'Modzy',
     subtitle: 'MLOps Platform for Enterprise and Edge',
     description:
-      'Refactored and optimized existing React components using in-house style library. Completed advanced problem-solving tasks such as complicated bug fixes. Created brand new Documentation site for public facing API.',
+      'Refactored and optimized existing React components using in-house style library. Worked closely with the team to solve complex bugs and technical issues throughout the application. Created new docs site for public facing API.',
     image: '/modzy.png'
   }
 ];
@@ -54,7 +54,7 @@ const Work = () => (
           Recent projects
         </h1>
         <p className="font-mono text-xs sm:text-lg ben-gradient italic px-8 mb-4 text-center">
-          Some freelance jobs and startups I&apos;ve recently been involved with
+          Some of the startups and contract work I&apos;ve been involved with lately
         </p>
       </div>
       <div className="flex flex-wrap -m-2 max-w-full">

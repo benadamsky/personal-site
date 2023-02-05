@@ -8,7 +8,7 @@ const Home = () => (
       <title>Ben Adamsky - Creating things</title>
       <meta
         name="description"
-        content="Founder, React developer, UI/UX designer. Always looking to connect with interesting people because we can't build an exciting (and sustainable) future alone."
+        content="Founder, developer, UI/UX designer. Always looking to connect with interesting people because we can't build an exciting (and sustainable) future alone."
       />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" href="/favicon.ico" />

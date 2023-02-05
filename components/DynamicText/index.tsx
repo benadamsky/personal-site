@@ -7,7 +7,7 @@ const DynamicText = () => (
         typewriter
           .typeString('Founder, ')
           .pauseFor(500)
-          .typeString('React developer, ')
+          .typeString('developer, ')
           .pauseFor(500)
           .changeDelay(225)
           .typeString('UI/UX ')
