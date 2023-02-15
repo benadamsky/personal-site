@@ -51,10 +51,10 @@ const Work = () => (
     <div className="h-full relative bg-ben-black flex flex-col items-center">
       <div className="mt-6 flex flex-col items-center justify-center">
         <h1 className="font-sans sm:text-6xl text-3xl text-white mb-2">
-          Recent projects
+          Recent Projects
         </h1>
         <p className="font-mono text-xs sm:text-lg ben-gradient italic px-8 mb-4 text-center">
-          Some of the startups and contract work I&apos;ve been involved with lately
+          some of the startups and contract work i&apos;ve been involved with lately
         </p>
       </div>
       <div className="flex flex-wrap -m-2 max-w-full">

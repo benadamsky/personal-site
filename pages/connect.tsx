@@ -15,27 +15,27 @@ const Connect = () => (
     </Head>
     <div className="h-full relative bg-ben-black flex flex-col items-center">
       <h1 className="mt-6 font-sans sm:text-6xl text-3xl text-white mb-2">
-        How to connect
+        How to Connect
       </h1>
       <div className="absolute top-2/4 left-2/4 -translate-y-2/4 -translate-x-2/4 flex flex-col items-center justify-center">
         <p className="text-xl sm:text-2xl text-white mb-12 text-center">
-          The easiest way to get in contact with me is via{' '}
+          the easiest way to get in contact with me is via{' '}
           <HyperLink href="mailto:benadamsky@gmail.com">email</HyperLink>.
         </p>
         <p className="text-xl sm:text-2xl text-white mb-12 text-center">
-          Want to hire me? Message me on{' '}
+          want to hire me? email or message on{' '}
           <HyperLink href="https://www.upwork.com/freelancers/~01f344390ba3237708">
-            Upwork
+            upwork
           </HyperLink>{' '}
-          for dev work or consulting.
+          for dev work / consulting.
         </p>
         <p className="text-xl sm:text-2xl text-white text-center">
-          My socials:{' '}
-          <HyperLink href="https://twitter.com/benadamsky">Twitter</HyperLink>,{' '}
+          my socials:{' '}
+          <HyperLink href="https://twitter.com/benadamsky">twitter</HyperLink>,{' '}
           <HyperLink href="https://linkedin.com/in/benadamsky">
-            LinkedIn
+            linkedin
           </HyperLink>
-          , <HyperLink href="https://fcast.me/ba">Farcaster</HyperLink>
+          , <HyperLink href="https://warpcast.com/ba">farcaster</HyperLink>
         </p>
       </div>
       <Nav />
