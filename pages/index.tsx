@@ -5,13 +5,7 @@ import Nav from '../components/Nav';
 const Home = () => (
   <>
     <Head>
-      <title>Ben Adamsky - Creating things</title>
-      <meta
-        name="description"
-        content="Founder, developer, UI/UX designer. Always looking to connect with interesting people because we can't build an exciting (and sustainable) future alone."
-      />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="icon" href="/favicon.ico" />
+      <title>Ben Adamsky - Building stuff</title>
     </Head>
     <div className="h-full relative bg-ben-black flex flex-col items-center justify-center">
       <h1 className="font-sans md:text-8xl text-5xl text-white mb-2">

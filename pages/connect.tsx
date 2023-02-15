@@ -6,12 +6,16 @@ const Connect = () => (
   <>
     <Head>
       <title>Ben Adamsky - Connect</title>
+      <meta name="title" content="Ben Adamsky - Connect" />
       <meta
         name="description"
-        content="How to contact me for work, opportunities, or just to say hi."
+        content="How to contact me for work, cool opportunities, or just to say hi."
       />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="icon" href="/favicon.ico" />
+      <meta name="og:title" content="Ben Adamsky - Connect" />
+      <meta
+        name="og:description"
+        content="How to contact me for work, cool opportunities, or just to say hi."
+      />
     </Head>
     <div className="h-full relative bg-ben-black flex flex-col items-center">
       <h1 className="mt-6 font-sans sm:text-6xl text-3xl text-white mb-2">

@@ -6,9 +6,9 @@ const projects = [
   {
     role: 'Full-Stack Developer (2022 - present)',
     title: 'Freeport',
-    subtitle: 'Invest in the world\'s rarest fine art',
+    subtitle: "Invest in the world's rarest fine art",
     description:
-      'Developing front-end and back-end solutions for the platform\'s custom 3D art gallery. Assisting in various product decisions and building out new features.',
+      "Developing front-end and back-end solutions for the platform's custom 3D art gallery. Assisting in various product decisions and building out new features.",
     image: '/freeport.png'
   },
   {
@@ -41,12 +41,16 @@ const Work = () => (
   <>
     <Head>
       <title>Ben Adamsky - Work</title>
+      <meta name="title" content="Ben Adamsky - Work" />
       <meta
         name="description"
-        content="A compilation of highlights from the things I've had the opportunity to build so far."
+        content="Some of the startups and contract work I've been involved with lately"
       />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="icon" href="/favicon.ico" />
+      <meta name="og:title" content="Ben Adamsky - Work" />
+      <meta
+        name="og:description"
+        content="Some of the startups and contract work I've been involved with lately"
+      />
     </Head>
     <div className="h-full relative bg-ben-black flex flex-col items-center">
       <div className="mt-6 flex flex-col items-center justify-center">
@@ -54,7 +58,8 @@ const Work = () => (
           Recent Projects
         </h1>
         <p className="font-mono text-xs sm:text-lg ben-gradient italic px-8 mb-4 text-center">
-          some of the startups and contract work i&apos;ve been involved with lately
+          some of the startups and contract work i&apos;ve been involved with
+          lately
         </p>
       </div>
       <div className="flex flex-wrap -m-2 max-w-full">
