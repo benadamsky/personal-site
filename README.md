@@ -1,3 +1,3 @@
 ## personal-site
 
-Live at: [benadamsky.com](https://benadamsky.com/)
+Replaced by [personal-site-v2](https://github.com/benadamsky/personal-site-v2)
